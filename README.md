@@ -14,7 +14,7 @@ The prepend file contains a pathlist - that will be edited in later bugfixes.
 
 ## Temporary Demo Image 
 
-![Demo Image](Temporary -- Logs.png)
+![Demo Image](Temporary%20--%20Logs.png)
 
 
 ### Potential XSS list 
